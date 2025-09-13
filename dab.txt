@@ -1,1 +1,9 @@
 this is the testing file which will state that i am still knowning something.
+
+new chapter is now build so that i can use the knowledge to grow myself.
+name = "Alice"  # String
+age = 30        # Integer
+height = 1.75   # Float
+is_student = True # Boolean
+
+print(f"Name: {name}, Age: {age}, Height: {height}, Student: {is_student}")
